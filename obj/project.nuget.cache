@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DXtV4qMrrxDN7SeIIZtqXzTTizbOxysbS4zcwHwjIQB5oQkb3lo865oavq+bF+zDyqsju3OwkYBm5kQpUcvWNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bijan\\Desktop\\topSektirme\\topSektirme\\topSektirme.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bijan\\.nuget\\packages\\controlzex\\5.0.1\\controlzex.5.0.1.nupkg.sha512",
+    "C:\\Users\\bijan\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+    "C:\\Users\\bijan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\bijan\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
